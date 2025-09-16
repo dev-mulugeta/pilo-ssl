@@ -8,5 +8,5 @@ Route::get('/', function () {
 
 
 Route::get('/light',function(){
-    return "let there be an eternal light";
+    return "GERD: let there be an eternal light";
 });
